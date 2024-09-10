@@ -12,7 +12,7 @@ Je suis actuellement inscrit(e) à un programme de formation hybride en data eng
 - [*] Introduction au Data Engineering : Aperçu général et historique
 - [*] Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
 - [ ] Parcours professionnel en Data Engineering
-- [*] Collaboration entre les différents rôles data
+- [x] Collaboration entre les différents rôles data
 - [ ] Comparaison : Data Engineering vs Data Science
 - [ ] Outils et utilisation des données en entreprise
 - [ ] Évaluation de la maturité d'un projet Data
