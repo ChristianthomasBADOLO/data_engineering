@@ -9,8 +9,8 @@ Je suis actuellement inscrit(e) à un programme de formation hybride en data eng
 <details>
 <summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim (0/16)</summary>
 
-- [*] Introduction au Data Engineering : Aperçu général et historique
-- [*] Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
+- [x] Introduction au Data Engineering : Aperçu général et historique
+- [x] Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
 - [ ] Parcours professionnel en Data Engineering
 - [x] Collaboration entre les différents rôles data
 - [ ] Comparaison : Data Engineering vs Data Science
