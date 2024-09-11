@@ -15,6 +15,7 @@
 -  Design Pattern d'une plateforme de données
 -  Types de Data Pipelines : Batch et Streaming
 -  Gestion de la qualité des données
+-  Commandes Bash essentielles pour Windows/Mac
 -  Introduction à l'utilisation de Vim
 </details>
 
