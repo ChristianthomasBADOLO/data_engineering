@@ -51,9 +51,7 @@ Un design pattern courant pour une plateforme de données comprend :
 - Batch : Traitement périodique de grands volumes de données statiques.
 - Streaming : Traitement continu des données en temps réel à mesure qu'elles arrivent.
 
-
-
-
+# Introduction à l'utilisation de Vim
 
 
 
