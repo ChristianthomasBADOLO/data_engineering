@@ -15,13 +15,12 @@
 -  Design Pattern d'une plateforme de données
 -  Types de Data Pipelines : Batch et Streaming
 -  Gestion de la qualité des données
--  Commandes Bash essentielles pour Windows/Mac
 -  Introduction à l'utilisation de Vim
 </details>
 
 
 # Introduction au Data Engineering; Concepts clés 
-Le data engineering est la discipline qui a pout but de developper des architectures pour la collecte le traitement et le stockages de grandes masses de données de diverses natures. Le data engineer permet au data scientist, analyst de ne pas "chercher une aiguille dans une bote de foin". Mettre en place des data plateformes pour permet l'acces à la bonne information grace à des data pipilines bien modlélisés(robuste et tolerant à la pane).
+Le data engineering est la discipline qui a pour but de developper des architectures pour la collecte le traitement et le stockages de grandes masses de données de diverses natures. Le data engineer permet au data scientist, analyst de ne pas "chercher une aiguille dans une bote de foin". Mettre en place des data plateformes pour permet l'acces à la bonne information grace à des data pipilines bien modlélisés(robuste et tolerant à la pane).
 
 - Différence data engineer dev backend
 
@@ -33,9 +32,23 @@ Le data engineering est la discipline qui a pout but de developper des architect
 
 - De plus en plus le data engineer a pour mission de metre en production des modèles de machine learning. L'on tend vers un depassement de la fonction historique en faisant un peu du MLOps.
 
-# Parcours professionnel en Data Engineering
+
+# Scale Up vs Scale Out : stratégies de mise à l'échelle :
+- Scale Up (vertical) : Augmentation des ressources d'un seul serveur (CPU, RAM, stockage).
+- Scale Out (horizontal) : Ajout de serveurs supplémentaires pour répartir la charge.
 
 
+# Design Pattern d'une plateforme de données 
+Un design pattern courant pour une plateforme de données comprend :
+- Couche d'ingestion : Collecte des données de diverses sources
+- Couche de stockage : Stockage des données brutes (data lake) et traitées (data warehouse)
+- Couche de traitement : Transformation et analyse des données
+- Couche de service : Exposition des données via API ou interfaces utilisateur
+
+
+# Types de Data Pipelines : Batch et Streaming :
+- Batch : Traitement périodique de grands volumes de données statiques.
+- Streaming : Traitement continu des données en temps réel à mesure qu'elles arrivent.
 
 
 
