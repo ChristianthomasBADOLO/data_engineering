@@ -54,6 +54,8 @@ Un design pattern courant pour une plateforme de données comprend :
 # Introduction à l'utilisation de Vim
 Vim c'est tout simplement un éditeur de texte. Il permet la modif de grands ficher via le terminal.
 
+[Screencast from 2024-09-12 21-04-36.webm](https://github.com/user-attachments/assets/b919d8ad-a9ca-47f2-9492-5824a374674c)
+
 
 
 
