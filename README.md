@@ -11,20 +11,20 @@ Je suis actuellement inscrit(e) à un programme de formation hybride en data eng
 
 - [x] Introduction au Data Engineering : Aperçu général et historique
 - [x] Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
-- [ ] Parcours professionnel en Data Engineering
+- [x] Parcours professionnel en Data Engineering
 - [x] Collaboration entre les différents rôles data
-- [ ] Comparaison : Data Engineering vs Data Science
+- [x] Comparaison : Data Engineering vs Data Science
 - [ ] Outils et utilisation des données en entreprise
 - [ ] Évaluation de la maturité d'un projet Data
-- [ ] Rôle de l'IA, des LLM et du Data Engineering
-- [ ] Introduction à la modélisation des données
-- [ ] Systèmes distribués : fonctionnement et avantages
-- [ ] Scale Up vs Scale Out : stratégies de mise à l'échelle
-- [ ] Design Pattern d'une plateforme de données
-- [ ] Types de Data Pipelines : Batch et Streaming
+- [x] Rôle de l'IA, des LLM et du Data Engineering
+- [x] Introduction à la modélisation des données
+- [x] Systèmes distribués : fonctionnement et avantages
+- [x] Scale Up vs Scale Out : stratégies de mise à l'échelle
+- [x] Design Pattern d'une plateforme de données
+- [x] Types de Data Pipelines : Batch et Streaming
 - [ ] Gestion de la qualité des données
-- [ ] Commandes Bash essentielles pour Windows/Mac
-- [ ] Introduction à l'utilisation de Vim
+- [x] Commandes Bash essentielles pour Windows/Mac
+- [x] Introduction à l'utilisation de Vim
 </details>
 
 <details>

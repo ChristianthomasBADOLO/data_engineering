@@ -1,5 +1,5 @@
 <details>
-<summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim (0/16)</summary>
+<summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim </summary>
 
 -  Introduction au Data Engineering : Aperçu général et historique
 -  Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
@@ -52,7 +52,7 @@ Un design pattern courant pour une plateforme de données comprend :
 - Streaming : Traitement continu des données en temps réel à mesure qu'elles arrivent.
 
 # Introduction à l'utilisation de Vim
-Vim c'est tout simplement un éditeur de texte. Il permet la modif de grands ficher via le terminal.
+Vim c'est tout simplement un éditeur de texte. Il permet la modif de grands fichers via le terminal.
 
 [Screencast from 2024-09-12 21-04-36.webm](https://github.com/user-attachments/assets/b919d8ad-a9ca-47f2-9492-5824a374674c)
 
