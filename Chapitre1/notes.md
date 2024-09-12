@@ -52,8 +52,7 @@ Un design pattern courant pour une plateforme de données comprend :
 - Streaming : Traitement continu des données en temps réel à mesure qu'elles arrivent.
 
 # Introduction à l'utilisation de Vim
-
-
+Vim c'est tout simplement un éditeur de texte. Il permet la modif de grands ficher via le terminal.
 
 
 
