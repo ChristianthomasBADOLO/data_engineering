@@ -134,3 +134,69 @@ Cela montre la polyvalence de PostgreSQL pour modéliser des données relationne
 - Structurées : table SQL, fichers Excel
 - Sémi-structurées : JSON, XML, YAML
 - Unstructured : Graphe, Vidéos, Images, Audios, Textes, Documents
+
+# Requêtes SQL
+1. SELECT :
+C'est la requête la plus courante, utilisée pour récupérer des données d'une ou plusieurs tables.
+
+Exemple :
+```sql
+SELECT nom, prénom FROM employés WHERE département = 'Ventes';
+```
+Cette requête sélectionne le nom et le prénom de tous les employés du département Ventes.
+
+2. CREATE :
+Utilisée pour créer de nouveaux objets dans la base de données, comme des tables, des vues, des index, etc.
+
+Exemple pour créer une table :
+```sql
+CREATE TABLE clients (
+    id INT PRIMARY KEY,
+    nom VARCHAR(50),
+    email VARCHAR(100)
+);
+```
+
+3. ALTER TABLE :
+Permet de modifier la structure d'une table existante, comme ajouter ou supprimer des colonnes.
+
+Exemple pour ajouter une colonne :
+```sql
+ALTER TABLE clients ADD COLUMN téléphone VARCHAR(15);
+```
+
+4. INSERT :
+Utilisée pour insérer de nouvelles lignes de données dans une table.
+
+Exemple :
+```sql
+INSERT INTO clients (nom, email) VALUES ('Dupont', 'dupont@email.com');
+```
+
+5. UPDATE :
+Permet de modifier des données existantes dans une table.
+
+Exemple :
+```sql
+UPDATE employés SET salaire = salaire * 1.1 WHERE performance = 'Excellent';
+```
+Cette requête augmente de 10% le salaire des employés ayant une performance excellente.
+
+6. DELETE :
+Utilisée pour supprimer des lignes d'une table.
+
+Exemple :
+```sql
+DELETE FROM clients WHERE dernière_commande < '2020-01-01';
+```
+Cette requête supprime les clients n'ayant pas commandé depuis le 1er janvier 2020.
+
+7. DROP :
+Permet de supprimer des objets de la base de données, comme des tables ou des vues.
+
+Exemple pour supprimer une table :
+```sql
+DROP TABLE anciens_clients;
+```
+
+# Schéma, Vue
