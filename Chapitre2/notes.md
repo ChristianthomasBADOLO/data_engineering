@@ -200,3 +200,18 @@ DROP TABLE anciens_clients;
 ```
 
 # Schéma, Vue
+1. Vue : Table virtuelle basée sur une requête SQL, ne stockant pas de données physiques. C'est comme un lonng `SELECT` que l'on garde de côté et que l'on appelle quand il le faut (différent d'une fonction)
+
+Exemple :
+```sql
+CREATE VIEW employés_ventes AS
+SELECT nom, salaire FROM employés WHERE département = 'Ventes';
+```
+
+2. Schéma : Conteneur logique pour regrouper des objets de base de données (tables, vues, etc.).
+
+Exemple :
+```sql
+CREATE SCHEMA ventes;
+CREATE TABLE ventes.produits (id INT, nom VARCHAR(50));
+```
