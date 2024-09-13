@@ -7,7 +7,7 @@ Je suis un(e) passionné(e) de technologie déterminé(e) à devenir un(e) data 
 Je suis actuellement inscrit(e) à un programme de formation hybride en data engineering qui s'étend sur 10 semaines. Voici le plan détaillé avec suivi de progression :
 
 <details>
-<summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim (0/16)</summary>
+<summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim (13/16)</summary>
 
 - [x] Introduction au Data Engineering : Aperçu général et historique
 - [x] Concepts clés : Différences entre Data Engineer, Data Scientist, Data Analyst, etc.
@@ -28,11 +28,11 @@ Je suis actuellement inscrit(e) à un programme de formation hybride en data eng
 </details>
 
 <details>
-<summary>Chapitre 2 - SQL (0/8)</summary>
+<summary>Chapitre 2 - SQL (2/8)</summary>
 
 - [ ] Installation et configuration de PostgreSQL et pgAdmin
-- [ ] Concepts de base des SGBDR et types de données
-- [ ] Requêtes SQL : SELECT, CREATE, ALTER TABLE, INSERT, UPDATE, DELETE, DROP
+- [*] Concepts de base des SGBDR et types de données
+- [*] Requêtes SQL : SELECT, CREATE, ALTER TABLE, INSERT, UPDATE, DELETE, DROP
 - [ ] Utilisation de NULL et requêtes conditionnelles (CASE)
 - [ ] Jointures : JOIN, sous-requêtes, CTE, et opérations ensemblistes
 - [ ] Travailler avec les dates et heures
