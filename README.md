@@ -28,12 +28,12 @@ Je suis actuellement inscrit(e) à un programme de formation hybride en data eng
 </details>
 
 <details>
-<summary>Chapitre 2 - SQL (2/8)</summary>
+<summary>Chapitre 2 - SQL (3/8)</summary>
 
 - [ ] Installation et configuration de PostgreSQL et pgAdmin
 - [*] Concepts de base des SGBDR et types de données
 - [*] Requêtes SQL : SELECT, CREATE, ALTER TABLE, INSERT, UPDATE, DELETE, DROP
-- [ ] Utilisation de NULL et requêtes conditionnelles (CASE)
+- [*] Utilisation de NULL et requêtes conditionnelles (CASE)
 - [ ] Jointures : JOIN, sous-requêtes, CTE, et opérations ensemblistes
 - [ ] Travailler avec les dates et heures
 - [ ] Fonctions de fenêtrage avancées
