@@ -215,3 +215,17 @@ Exemple :
 CREATE SCHEMA ventes;
 CREATE TABLE ventes.produits (id INT, nom VARCHAR(50));
 ```
+
+# - Utilisation de NULL et requêtes conditionnelles (CASE)
+Il s'agit ici de faire des requettes conditionnelles.
+```sql
+SELECT 
+    nom, 
+    CASE 
+        WHEN salaire > 55000 THEN 'Salaire élevé'
+        WHEN salaire <= 55000 THEN 'Salaire standard'
+        ELSE 'Non spécifié'
+    END AS categorie_salaire 
+FROM employes;
+```
+Cette requeste  crée une colonne `categori_salaire` qui pour chaque nom va valoir `Salaire élevé` si salaire > 55000, `Salaire standar` si salaire <= 55000 et `Non spécifié` sinon (au cas on a une valeur NULL de salaire par exempe).
