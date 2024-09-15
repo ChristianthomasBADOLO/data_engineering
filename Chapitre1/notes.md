@@ -21,17 +21,17 @@
 
 
 # Introduction au Data Engineering; Concepts clés 
-Le data engineering est la discipline qui a pour but de developper des architectures pour la collecte le traitement et le stockages de grandes masses de données de diverses natures. Le data engineer permet au data scientist, analyst de ne pas "chercher une aiguille dans une bote de foin". Mettre en place des data plateformes pour permet l'acces à la bonne information grace à des data pipilines bien modlélisés(robuste et tolerant à la pane).
+Le data engineering est la discipline qui a pour but de developper des architectures pour la collecte le traitement et le stockages de grandes masses de données de diverses natures. Le data engineer permet au data scientist, analyst de ne pas "chercher une aiguille dans une bote de foin". Mettre en place des data plateformes pour permettre l'acces à la bonne information grâce à des data pipilines bien modlélisés(robustes et tolerants à la pane).
 
 - Différence data engineer dev backend
 
-    - Une approche fonctionnelle avec des frameworks pour le dev backend (logique côté servers) et plus une approche design en utilisant des outils dédiés du big data(choix des technologies) pour le data engineer.
+    - Une approche fonctionnelle avec des frameworks pour le dev backend (logique côté serveurs) et plus une approche design en utilisant des outils dédiés du big data(choix des technologies) pour le data engineer.
     - Le data engineer va beaucoup plus loin dans ses architectures dans la mesure qu'il assure une supervision des pipelines qu'il developpe. Il a pour rôle d'assurer le flux de données tandis que le dev backend developpe et maintient de fonctionnalités côté serveur.
 
-- Différences entre Data Engineer, Data Scientist, Data Analyst : le data engineer met en place des data plateformes pour permettre aux data scientist, analyst d'utiliser facielement la bonne information dans l'enorme masse de données de l'entreprise.
+- Différences entre Data Engineer, Data Scientist, Data Analyst : le data engineer met en place des data plateformes pour permettre aux data scientist, analyst d'utiliser facilement la bonne information dans l'enorme masse de données de l'entreprise.
 
 
-- De plus en plus le data engineer a pour mission de metre en production des modèles de machine learning. L'on tend vers un depassement de la fonction historique en faisant un peu du MLOps.
+- De plus en plus le data engineer a pour mission de mettre en production des modèles de machine learning. L'on tend vers un depassement de la fonction historique en faisant un peu du MLOps.
 
 
 # Scale Up vs Scale Out : stratégies de mise à l'échelle :
