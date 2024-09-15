@@ -1,10 +1,10 @@
 # Mon Parcours d'Apprentissage en Data Engineering
 
 ## À propos de moi
-Je suis un(e) passionné(e) de technologie déterminé(e) à devenir un(e) data engineer compétent(e). Mon objectif est de maîtriser les outils et technologies essentiels du data engineering pour contribuer à des projets innovants et relever des défis data à grande échelle.
+Je suis un passionné de technologie déterminé à devenir un data engineer compétent. Mon objectif est de maîtriser les outils et technologies essentiels du data engineering pour contribuer à des projets innovants et relever des défis data à grande échelle.
 
 ## Programme de formation
-Je suis actuellement inscrit(e) à un programme de formation hybride en data engineering qui s'étend sur 10 semaines. Voici le plan détaillé avec suivi de progression :
+Je suis actuellement inscrit à un programme de formation hybride en data engineering qui s'étend sur 10 semaines. Voici le plan détaillé avec suivi de progression :
 
 <details>
 <summary>Chapitre 1 - Introduction au Data Engineering et Bash + Vim (13/16)</summary>
