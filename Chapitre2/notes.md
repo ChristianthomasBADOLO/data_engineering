@@ -1,5 +1,5 @@
 <details>
-<summary>Chapitre 2 - SQL (0/8)</summary>
+<summary>Chapitre 2 - SQL </summary>
 
 - Installation et configuration de PostgreSQL et pgAdmin
 - Concepts de base des SGBDR et types de données
