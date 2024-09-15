@@ -30,7 +30,7 @@ Je suis actuellement inscrit à un programme de formation hybride en data engine
 <details>
 <summary>Chapitre 2 - SQL (3/8)</summary>
 
-- [ ] Installation et configuration de PostgreSQL et pgAdmin
+- [x] Installation et configuration de PostgreSQL et pgAdmin
 - [x] Concepts de base des SGBDR et types de données
 - [x] Requêtes SQL : SELECT, CREATE, ALTER TABLE, INSERT, UPDATE, DELETE, DROP
 - [x] Utilisation de NULL et requêtes conditionnelles (CASE)
