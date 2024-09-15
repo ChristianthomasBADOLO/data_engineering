@@ -15,7 +15,7 @@
 
 ## Qu'est ce que c'est?
 `PostgreSQL` prend en charge les bases de données relationnelles classiques tout en offrant des fonctionnalités de programmation orientée objet. Ce qu'il faut retenir c'est qu'en plus des types de données classiques (int, str, etc) l'on peut créer son propre type complexe (Adresse : rue, ville, cp, etc) d'où le `relationnel et objet`. 
-Il peut aussi prendre en compte des données sémi-structurées comme du JSON.
+Il peut aussi prendre en compte des données sémi-structurées comme du JSON, du XML, du YAML.
 
 
 Exemples de création de tables dans PostgreSQL qui couvrent les trois aspects : **relationnel**, **objet** (héritage), et **semi-structuré** (JSON).
@@ -131,9 +131,9 @@ VALUES (1, '2024-09-12', '{"produit": "T-shirt", "quantité": 2, "couleur": "rou
 Cela montre la polyvalence de PostgreSQL pour modéliser des données relationnelles, objets et semi-structurées au sein d'une même base de données.
 
 # Type de données
-- Structurées : table SQL, fichers Excel
+- Structurées : table SQL, fichers Excel, etc
 - Sémi-structurées : JSON, XML, YAML
-- Unstructured : Graphe, Vidéos, Images, Audios, Textes, Documents
+- Unstructured : Graphe, Vidéos, Images, Audios, Textes, Documents, ect
 
 # Requêtes SQL
 1. SELECT :
@@ -216,7 +216,7 @@ CREATE SCHEMA ventes;
 CREATE TABLE ventes.produits (id INT, nom VARCHAR(50));
 ```
 
-# - Utilisation de NULL et requêtes conditionnelles (CASE)
+# Utilisation de NULL et requêtes conditionnelles (CASE)
 Il s'agit ici de faire des requettes conditionnelles.
 ```sql
 SELECT 
@@ -228,4 +228,14 @@ SELECT
     END AS categorie_salaire 
 FROM employes;
 ```
-Cette requeste  crée une colonne `categori_salaire` qui pour chaque nom va valoir `Salaire élevé` si salaire > 55000, `Salaire standar` si salaire <= 55000 et `Non spécifié` sinon (au cas on a une valeur NULL de salaire par exempe).
+Cette requeste  crée une colonne `categorie_salaire` qui pour chaque nom va valoir `Salaire élevé` si salaire > 55000, `Salaire standard` si salaire <= 55000 et `Non spécifié` sinon (au cas on a une valeur NULL de salaire par exempe).
+
+
+
+
+
+# References
+
+https://youtu.be/UGfteFq_6Co?si=iqpluM_aN9a97ww3
+
+https://www.pgadmin.org/
