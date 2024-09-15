@@ -231,7 +231,7 @@ FROM employes;
 Cette requeste  crée une colonne `categorie_salaire` qui pour chaque nom va valoir `Salaire élevé` si salaire > 55000, `Salaire standard` si salaire <= 55000 et `Non spécifié` sinon (au cas on a une valeur NULL de salaire par exempe).
 
 
-
+# Jointures : JOIN, sous-requêtes, CTE, et opérations ensemblistes
 
 
 # References
@@ -239,3 +239,5 @@ Cette requeste  crée une colonne `categorie_salaire` qui pour chaque nom va val
 https://youtu.be/UGfteFq_6Co?si=iqpluM_aN9a97ww3
 
 https://www.pgadmin.org/
+
+https://www.simplilearn.com/tutorials/sql-tutorial/schema-in-sql
