@@ -25,3 +25,6 @@ Un SDK (Software Development Kit) est un ensemble d'outils, de bibliothèques et
 # BLOBs
 Les bases de données BLOBs (Binary Large Objects) sont des types de données qui permettent de stocker de grandes quantités d'informations sous forme de fichiers binaires dans une base de données. Cela inclut des fichiers tels que des images, des vidéos, des documents ou tout autre contenu non structuré.
 En termes simples, c'est comme une "boîte" dans la base de données où tu peux déposer des fichiers lourds et de formats variés, un peu comme stocker un fichier dans un dossier sur ton ordinateur, mais à l'intérieur de la base de données.
+
+# .NET
+.NET est une plateforme de développement créée par Microsoft qui permet de construire et d'exécuter des applications sur plusieurs systèmes d'exploitation (Windows, macOS, Linux) et pour différents types d'appareils (ordinateurs, serveurs, mobiles, etc.). Elle fournit un ensemble d'outils, de bibliothèques et de langages de programmation qui facilitent le développement d'applications robustes et performantes.
